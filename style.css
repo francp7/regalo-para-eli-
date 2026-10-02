@@ -288,6 +288,8 @@ h2 {
 
 .foto {
     height: 220px;
+    width: 294px;
+    height: 225px;
 
     border-radius: 20px;
 
@@ -588,6 +590,8 @@ h2 {
 
     .foto {
         height: 170px;
+        width: 294px;
+        height: 225px;
 
         border-radius: 15px;
     }
